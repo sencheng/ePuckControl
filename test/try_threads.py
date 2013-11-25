@@ -1,9 +1,7 @@
 # -*- coding: utf-8 -*-
 """
-Spyder Editor
+Test how threads work.
 
-This temporary script file is located here:
-/Users/sen/.spyder2-27/.temp.py
 """
 
 import threading
